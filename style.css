@@ -1,0 +1,26 @@
+body{
+    text-align: center;margin: 0px;
+}
+.podeyy{ background-color: rgb(26, 27, 27);
+    position:fixed;
+    width:100% ;top: 0px;margin: top 1px;
+    
+
+
+}
+.links{
+    display: inline;
+    font: size 40px;margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:hover{
+font-size: 20px;
+color: rgb(113, 118, 122);
+}
+.img
+{
+  appearance: 2px;;  
+}
